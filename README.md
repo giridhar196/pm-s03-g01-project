@@ -25,3 +25,4 @@
   [Giridhar Addagalla](https://github.com/giridhar196) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dhanusha Goud](https://github.com/Dhanushagoud)             &nbsp;&nbsp;&nbsp;&nbsp;   [Vyshnavi T](https://github.com/vyshnavi1996)   
 
 ### Project Charter
+* [Click to view our Project Charter](markdown/charter.md)
