@@ -19,11 +19,16 @@
 * Nobody likes waiting, not so many people can actually wait. So show your customers that you appreciate their time and don’t make them suffer.
 
 ### Our Team
-<img src="./images/giridhar.jpeg" alt="giridhar image" width="150" style="border-radius:50%" />  
+<img src="./images/giridhar.jpeg" alt="giridhar image" width="150" style="border-radius:50%" />
+
 [Giridhar Addagalla](https://github.com/giridhar196)              
+
 <img src="./images/dhanushag.jpeg" alt="dhanush image" width="150" style="border-radius:50%" />
+
 [Dhanusha Goud](https://github.com/Dhanushagoud)
-<img src="./images/vyshnavi.jpeg" alt="vyshnavi image" width="150" style="border-radius:50%" />               
+
+<img src="./images/vyshnavi.jpeg" alt="vyshnavi image" width="150" style="border-radius:50%" />
+
 [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996)   
 
 ### Project Charter
