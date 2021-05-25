@@ -14,4 +14,6 @@
    <strong>Team Name: </strong>Easy and Effortable<br>
    
 **Summary:**<br>
-* are online portals that facilitate online transactions of goods and services through means of the transfer of information and funds over the Internet. 
+* We are online portals that facilitate online transactions of goods and services through means of the transfer of information and funds over the Internet. 
+* The order manager queries your database to find out if the sweater of that exact color and size is actually in stock.
+* Nobody likes waiting, not so many people can actually wait. So show your customers that you appreciate their time and don’t make them suffer.
