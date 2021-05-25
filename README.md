@@ -22,7 +22,7 @@
 <img src="./images/giridhar.jpeg" alt="giridhar image" width="150" style="border-radius:50%" />                <img src="./images/dhanushag.jpeg" alt="dhanush image" width="150" style="border-radius:50%" />
 <img src="./images/vyshnavi.jpeg" alt="vyshnavi image" width="150" style="border-radius:50%" />               
 
-  [Giridhar Addagalla](https://github.com/giridhar196) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dhanusha Goud](https://github.com/Dhanushagoud)             &nbsp;&nbsp;&nbsp;&nbsp;   [Vyshnavi T](https://github.com/vyshnavi1996)   
+  [Giridhar Addagalla](https://github.com/giridhar196) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dhanusha Goud](https://github.com/Dhanushagoud)             &nbsp;&nbsp;&nbsp;&nbsp;   [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996)   
 
 ### Project Charter
 * [Click to view our Project Charter](markdown/charter.md)
