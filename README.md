@@ -24,7 +24,7 @@
 <img src="./images/dhanushag.jpeg" alt="dhanush image" width="150" style="border-radius:50%" />
 [Dhanusha Goud](https://github.com/Dhanushagoud)
 <img src="./images/vyshnavi.jpeg" alt="vyshnavi image" width="150" style="border-radius:50%" />               
-[Vyshnavi T](https://github.com/vyshnavi1996)   
+[Vyshnavi Tadipaneni](https://github.com/vyshnavi1996)   
 
 ### Project Charter
 * [Click to view our Project Charter](markdown/charter.md)
