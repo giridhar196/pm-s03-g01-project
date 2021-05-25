@@ -33,3 +33,19 @@
 
 ### Project Charter
 * [Click to view our Project Charter](markdown/charter.md)
+
+
+### Scope
+
+
+### Schedule
+
+
+### Budget
+
+
+## Scope Suggestions
+
+## Costs Suggestions
+
+## Schedule Suggestions
