@@ -83,6 +83,7 @@
   * 4 months
 
 ### Budget
-* Total project Value is $70,000
+* Total project Estimated is $75,600
 * Total Project Cost is $34,400
-* Estimated Profits is $35,600
+* Estimated Profits is $41,200
+* [Click to view our Budget Sheet](budget/budget.xlxs)
