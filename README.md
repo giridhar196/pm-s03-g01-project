@@ -1,4 +1,4 @@
-# Ecommerece Website
+# Ecommerce Website
 
 ## Table of Content
 * Our Project
