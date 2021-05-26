@@ -36,16 +36,53 @@
 
 
 ### Scope
+#### Work Breakdown Structure
 
+#### 1. Intiating
+ * 1.1 Identify Major Stake Owner
+ * 1.2 Develop Project Charter
+ * 1.3 Project Sponsor for the project charter 
+ * 1.4 Project charter approved/confirmed
+ * 1.5 Evaluations and Suggestions
+ 
+#### 2. Planning 
+ * 2.1 Develop primary functional scope statement 
+ * 2.2 Identify and pick the project team 
+ * 2.3 Project team planning meeting
+ * 2.4 Create requirement management plan
+ * 2.5 Evulate and create project plan  
+ * 2.6 Identify and figure cost management plan 
+ * 2.7 Develop time management plan  
+ * 2.8 Approval of the execution and development
+ 
+#### 3. Execution
+  * 3.1 Gather Functional Needs
+  * 3.2 Procure web software
+  * 3.3 Setting up deployment systems
+  * 3.4 Procure hardware servers and deployment environment
+  * 3.5 Backup existing server files and server settings
+  * 3.5 Setup deployment servers
+  * 3.6 Restore backed up servers
+  * 3.7 Update Systems
+  
+#### 4. Monitoring and Controlling
+  * 4.1 Identify functional breaks in the systems
+  * 4.2 Perform quality analysis
+  * 4.3 Prepare and evaluation performance
+  
+#### 5. Closing
+  * 5.1 Reviews & retrain with feedback
+  * 5.2 Project Completion
 
 ### Schedule
-
+* Start Date
+  * 06/01/2021
+* End Date
+  * 11/09/2021
+* Duration
+  * 4 months
 
 ### Budget
-
-
-## Scope Suggestions
-
-## Costs Suggestions
-
-## Schedule Suggestions
+* Total project Value is $70,000
+* Total Project Cost is $34,400
+* Estimated Profits is $35,600
