@@ -61,10 +61,10 @@
   * 3.3 Setting up deployment systems
   * 3.4 Procure hardware servers and deployment environment
   * 3.5 Backup existing server files and server settings
-  * 3.5 Setup deployment servers
-  * 3.6 Restore backed up servers
-  * 3.7 Update Systems
-  
+  * 3.6 Setup deployment servers
+  * 3.7 Restore backed up servers
+  * 3.8 Update Systems
+  * 3.9 Execution Complete
 #### 4. Monitoring and Controlling
   * 4.1 Identify functional breaks in the systems
   * 4.2 Perform quality analysis
