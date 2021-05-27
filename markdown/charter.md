@@ -46,9 +46,9 @@
 > **Team:**
 > | Name | Role | Email ID |
 > | :------------------: | :----: | :-------------------: |
-> | Giridhar Addagalla| Project Manager | giridhar196@gmail.com |
-> | Dhanusha Goud Dommati| Team Coordinator | dhanushadommati@gmail.com |
-> | Vyshnavi Tadipaneni | Systems Administrator | vyshnavi.t14@gmail.com|
+> | Giridhar Addagalla| Product Owner | giridhar196@gmail.com |
+> | Dhanusha Goud Dommati| Scrum Master | dhanushadommati@gmail.com |
+> | Vyshnavi Tadipaneni | Developer | vyshnavi.t14@gmail.com|
 
 
 <hr>
