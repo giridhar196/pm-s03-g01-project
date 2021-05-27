@@ -83,8 +83,10 @@
   * 4 months
 
 ### Budget
-<img src="./images/project_budget.png" alt="budget image" style="border-radius:50%" />
+
 * Total project Estimated is $75,600
 * Total Project Cost is $34,400
 * Estimated Profits is $41,200
 * [Click to view our Budget Sheet](budget/budget.xlxs)
+
+<img src="./images/project_budget.PNG" alt="budget image" width="500" style="border-radius:50%" />
