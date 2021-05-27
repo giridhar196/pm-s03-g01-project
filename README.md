@@ -82,6 +82,10 @@
 * Duration
   * 4 months
 
+<img src="./images/project_schedule.PNG" alt="Project Schedule image" width="500" style="border-radius:50%" />
+
+<img src="./images/project_schedule_2.PNG" alt="Project Schedule image" width="500" style="border-radius:50%" />
+
 ### Budget
 
 * Total project Estimated is $75,600
