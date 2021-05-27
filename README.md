@@ -82,9 +82,9 @@
 * Duration
   * 4 months
 
-<img src="./images/project_schedule.PNG" alt="Project Schedule image" width="500" style="border-radius:50%" />
+<img src="./images/project_schedule.png" alt="Project Schedule image" width="max" style="border-radius:50%" />
 
-<img src="./images/project_schedule_2.PNG" alt="Project Schedule image" width="500" style="border-radius:50%" />
+<img src="./images/project_schedule_2.png" alt="Project Schedule image" width="max" style="border-radius:50%" />
 
 ### Budget
 
