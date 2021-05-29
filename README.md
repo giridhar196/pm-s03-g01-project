@@ -1,14 +1,21 @@
+
 # Ecommerce Website
 
 ## Table of Content
-* Our Project
-* Our Team
-* Project Charter
-* Scope
-* Schedule
-* Budget
+* [Our Project](#ourproject)
+* [Our Team](#ourteam)
+* [Project Charter](#projectcharter)
+* [Scope](#scope)
+   * [Break Down Structure](#breakdown)    
+         [1. Intiating](#iniating)    
+         [2. Planning ](#planning)  
+         [3. Execution](#execution)    
+         [4. Monitoring and Controlling](#monitoring)  
+         [5. Closing](#closing)  
+* [Schedule](#schedule)
+* [Budget](#budget)
 
-### Our Project
+<h2 id="ourproject"> Our Project </h2>
    <strong>Project Title:</strong> Ecommerece Website<br>
    <strong>Project Tagline: </strong>Buy from me any where<br>
    <strong>Team Name: </strong>Easy and Effortable<br>
@@ -18,7 +25,7 @@
 * The order manager queries your database to find out if the sweater of that exact color and size is actually in stock.
 * Nobody likes waiting, not so many people can actually wait. So show your customers that you appreciate their time and don’t make them suffer.
 
-### Our Team
+<h3 id="ourteam">Our Team</h3>
 <img src="./images/giridhar.jpeg" alt="giridhar image" width="150" style="border-radius:50%" />
 
 [Giridhar Addagalla](https://github.com/giridhar196)              
@@ -31,21 +38,22 @@
 
 [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996)   
 
-### Project Charter
+<h3 id="projectcharter"> Project Charter</h3>
+
 * [Click to view our Project Charter](markdown/charter.md)
 
 
-### Scope
-#### Work Breakdown Structure
+<h3 id="scope"> Scope</h3>
+<h4 id="breakdown"> Work Breakdown Structure </h4>
 
-#### 1. Intiating
+<h4 id="iniating"> 1. Intiating</h4>
  * 1.1 Identify Major Stake Owner
  * 1.2 Develop Project Charter
  * 1.3 Project Sponsor for the project charter 
  * 1.4 Project charter approved/confirmed
  * 1.5 Evaluations and Suggestions
  
-#### 2. Planning 
+<h4 id="planning"> 2. Planning </h4>
  * 2.1 Develop primary functional scope statement 
  * 2.2 Identify and pick the project team 
  * 2.3 Project team planning meeting
@@ -55,7 +63,7 @@
  * 2.7 Develop time management plan  
  * 2.8 Approval of the execution and development
  
-#### 3. Execution
+<h4 id="execution"> 3. Execution</h4>
   * 3.1 Gather Functional Needs
   * 3.2 Procure web software
   * 3.3 Setting up deployment systems
@@ -65,12 +73,12 @@
   * 3.7 Restore backed up servers
   * 3.8 Update Systems
   * 3.9 Execution Complete
-#### 4. Monitoring and Controlling
+<h4 id="monitoring"> 4. Monitoring and Controlling</h4>
   * 4.1 Identify functional breaks in the systems
   * 4.2 Perform quality analysis
   * 4.3 Prepare and evaluation performance
   
-#### 5. Closing
+<h4 id="closing"> 5. Closing</h4>
   * 5.1 Reviews & retrain with feedback
   * 5.2 Project Completion
 
