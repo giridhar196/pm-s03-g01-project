@@ -19,6 +19,7 @@
 * [Budget](#budget)
 
 <h2 id="ourproject"> Our Project </h2>
+
    <strong>Project Title:</strong> Ecommerece Website<br>
    <strong>Project Tagline: </strong>Buy from me any where<br>
    <strong>Team Name: </strong>Easy and Effortable<br>
@@ -30,17 +31,18 @@
 
 <h2 id="ourteam">Our Team</h3>
 
-<img src="./images/giridhar.jpeg" alt="giridhar image" width="150" style="border-radius:50%" />
-<a href="https://github.com/giridhar196" id="giridhar">Giridhar Addagalla</a>
+<img src="./images/giridhar.jpeg" alt="giridhar image" width="150" style="border-radius:50%" /> 
+<a href="https://github.com/giridhar196" id="giridhar">Giridhar Addagalla</a> 
               
 
-<img src="./images/dhanushag.jpeg" alt="dhanush image" width="150" style="border-radius:50%" />
-<a href="https://github.com/Dhanushagoud" id="dhanush">Dhanusha Goud</a>
+
+<img src="./images/dhanushag.jpeg" alt="dhanush image" width="150" style="border-radius:50%" /> 
+<a href="https://github.com/Dhanushagoud" id="dhanush">Dhanusha Goud</a> 
 
 
-<img src="./images/vyshnavi.jpeg" alt="vyshnavi image" width="150" style="border-radius:50%" />
 
-<a href="https://github.com/vyshnavi1996" id="vyshnavi">Vyshnavi Tadipaneni</a>
+<img src="./images/vyshnavi.jpeg" alt="vyshnavi image" width="150" style="border-radius:50%" /> 
+<a href="https://github.com/vyshnavi1996" id="vyshnavi">Vyshnavi Tadipaneni</a> 
    
 <h3 id="projectcharter"> Project Charter</h3>
 
