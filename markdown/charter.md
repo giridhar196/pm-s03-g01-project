@@ -1,5 +1,6 @@
+<div align="center">
 <h1 style="text-align: center;"> Ecommerce Website Project Charter</h1>
-
+</div>
 
 <hr>
 
