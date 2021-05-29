@@ -4,6 +4,9 @@
 ## Table of Content
 * [Our Project](#ourproject)
 * [Our Team](#ourteam)
+  * [Giridhar Addagalla](#giridhar) (Product Owner)
+  * [Dhanusha Goud](#dhanush) (Scrum Master)
+  * [Vyshnavi Tadipaneni](#vyshnavi)  Developer
 * [Project Charter](#projectcharter)
 * [Scope](#scope)
    * [Break Down Structure](#breakdown)    
@@ -25,28 +28,31 @@
 * The order manager queries your database to find out if the sweater of that exact color and size is actually in stock.
 * Nobody likes waiting, not so many people can actually wait. So show your customers that you appreciate their time and don’t make them suffer.
 
-<h3 id="ourteam">Our Team</h3>
-<img src="./images/giridhar.jpeg" alt="giridhar image" width="150" style="border-radius:50%" />
+<h2 id="ourteam">Our Team</h3>
 
-[Giridhar Addagalla](https://github.com/giridhar196)              
+<img src="./images/giridhar.jpeg" alt="giridhar image" width="150" style="border-radius:50%" />
+<a href="https://github.com/giridhar196" id="giridhar">Giridhar Addagalla</a>
+              
 
 <img src="./images/dhanushag.jpeg" alt="dhanush image" width="150" style="border-radius:50%" />
+<a href="https://github.com/Dhanushagoud" id="dhanush">Dhanusha Goud</a>
 
-[Dhanusha Goud](https://github.com/Dhanushagoud)
 
 <img src="./images/vyshnavi.jpeg" alt="vyshnavi image" width="150" style="border-radius:50%" />
 
-[Vyshnavi Tadipaneni](https://github.com/vyshnavi1996)   
-
+<a href="https://github.com/vyshnavi1996" id="vyshnavi">Vyshnavi Tadipaneni</a>
+   
 <h3 id="projectcharter"> Project Charter</h3>
 
 * [Click to view our Project Charter](markdown/charter.md)
 
 
 <h3 id="scope"> Scope</h3>
+
 <h4 id="breakdown"> Work Breakdown Structure </h4>
 
 <h4 id="iniating"> 1. Intiating</h4>
+
  * 1.1 Identify Major Stake Owner
  * 1.2 Develop Project Charter
  * 1.3 Project Sponsor for the project charter 
@@ -54,6 +60,7 @@
  * 1.5 Evaluations and Suggestions
  
 <h4 id="planning"> 2. Planning </h4>
+
  * 2.1 Develop primary functional scope statement 
  * 2.2 Identify and pick the project team 
  * 2.3 Project team planning meeting
@@ -64,6 +71,7 @@
  * 2.8 Approval of the execution and development
  
 <h4 id="execution"> 3. Execution</h4>
+
   * 3.1 Gather Functional Needs
   * 3.2 Procure web software
   * 3.3 Setting up deployment systems
@@ -74,15 +82,17 @@
   * 3.8 Update Systems
   * 3.9 Execution Complete
 <h4 id="monitoring"> 4. Monitoring and Controlling</h4>
+
   * 4.1 Identify functional breaks in the systems
   * 4.2 Perform quality analysis
   * 4.3 Prepare and evaluation performance
   
 <h4 id="closing"> 5. Closing</h4>
+
   * 5.1 Reviews & retrain with feedback
   * 5.2 Project Completion
 
-### Schedule
+<h3 id="schedule"> Schedule</h3>
 * Start Date
   * 06/01/2021
 * End Date
@@ -94,7 +104,7 @@
 
 <img src="./images/project_schedule_2.png" alt="Project Schedule image" width="max" style="border-radius:50%" />
 
-### Budget
+<h3 id="budget"> Budget</h3>
 
 * Total project Estimated is $75,600
 * Total Project Cost is $34,400
