@@ -111,6 +111,6 @@
 * Total project Estimated is $75,600
 * Total Project Cost is $34,400
 * Estimated Profits is $41,200
-* [Click to view our Budget Sheet](budget/budget.xlxs)
+* [Click to view our Budget Sheet](https://github.com/giridhar196/pm-s03-g01-project/blob/main/budget/budget.xlsx)
 
 <img src="./images/project_budget.PNG" alt="budget image" width="500" style="border-radius:50%" />
