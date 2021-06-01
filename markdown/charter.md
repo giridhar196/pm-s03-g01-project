@@ -49,6 +49,4 @@
 > | Giridhar Addagalla| Product Owner | giridhar196@gmail.com |
 > | Dhanusha Goud Dommati| Scrum Master | dhanushadommati@gmail.com |
 > | Vyshnavi Tadipaneni | Developer | vyshnavi.t14@gmail.com|
-
-
 <hr>
