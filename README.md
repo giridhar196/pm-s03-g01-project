@@ -19,7 +19,7 @@
 * [Budget](#budget)
 
 <h2 id="ourproject"> Our Project </h2>
-
+ 
    <strong>Project Title:</strong> Ecommerece Website<br>
    <strong>Project Tagline: </strong>Buy from me any where<br>
    <strong>Team Name: </strong>Easy and Effortable<br>
