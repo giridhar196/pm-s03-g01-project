@@ -103,7 +103,7 @@
 * Duration
   * 4 months
 
-<img src="./images/project_schedule.png" alt="Project Schedule image" width="max" style="border-radius:50%" />
+<img src="./images/project_schedule1.png" alt="Project Schedule image" width="max" style="border-radius:50%" />
 
 <img src="./images/project_schedule_2.png" alt="Project Schedule image" width="max" style="border-radius:50%" />
 
