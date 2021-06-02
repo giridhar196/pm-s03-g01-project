@@ -95,6 +95,7 @@
   * 5.2 Project Completion
 
 <h3 id="schedule"> Schedule</h3>
+
 * Start Date
   * 06/01/2021
 * End Date
