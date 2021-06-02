@@ -113,4 +113,4 @@
 * Estimated Profits is $41,200
 * [Click to view our Budget Sheet](https://github.com/giridhar196/pm-s03-g01-project/blob/main/budget/budget.xlsx)
 
-<img src="./images/project_budget.PNG" alt="budget image" width="500" style="border-radius:50%" />
+<img src="./images/project_budget.PNG" alt="budget image" style="border-radius:50%" />
