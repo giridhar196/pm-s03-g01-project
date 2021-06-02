@@ -108,9 +108,8 @@
 
 <h3 id="budget"> Budget</h3>
 
-* Total project Estimated is $75,600
-* Total Project Cost is $34,400
-* Estimated Profits is $41,200
+* Total project Developement Cost is $64,400.00
+* Total Project Equipment Cost is  $144,800.00 
 * [Click to view our Budget Sheet](https://github.com/giridhar196/pm-s03-g01-project/blob/main/budget/budget.xlsx)
 
 <img src="./images/project_budget.PNG" alt="budget image" style="border-radius:50%" />
